@@ -29,7 +29,30 @@ body{
     color: rgb(219, 211, 211);
     font-size: larger;
 }
-
+.Descarga{
+    display: block;
+    margin-top: 10em;
+    color: rgb(219, 211, 211);
+    background: cornflowerblue;
+    width: 180px;
+    height: 50px;
+    font-size: larger;
+    text-decoration-line: none;
+    text-align: center;
+    padding: 10px;
+}
+.Descarga:hover{
+    display: block;
+    margin-top: 10em;
+    color: rgb(219, 211, 211);
+    background: rgb(36, 102, 224);
+    width: 180px;
+    height: 50px;
+    font-size: larger;
+    text-decoration-line: none;
+    text-align: center;
+    padding: 10px;
+}
 .container {
     width: 90%;
     max-width: 1200px;
